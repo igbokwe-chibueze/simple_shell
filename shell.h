@@ -78,5 +78,3 @@ char *_strtok(char *, const char *);
 ssize_t getline(char **, size_t *, FILE *);
 
 #endif
-
-
