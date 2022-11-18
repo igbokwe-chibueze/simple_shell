@@ -1,7 +1,6 @@
 #include "shell.h"
 
 
-
 /**
 
   * _strtok - tokenizes a string
@@ -93,5 +92,3 @@ char *_strtok(char *str, const char *delim)
 	return (NULL);
 
 }
-
-
