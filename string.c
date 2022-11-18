@@ -1,5 +1,4 @@
 #include "shell.h"
-
 #include <string.h>
 
 
@@ -217,5 +216,3 @@ char **tokenize_str(char *str, char *delim)
 	return (tokens);
 
 }
-
-
