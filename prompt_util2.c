@@ -73,5 +73,3 @@ void p_commanderr(char *command, char *filename)
 	free(error_message);
 
 }
-
-
